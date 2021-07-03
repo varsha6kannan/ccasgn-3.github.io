@@ -1,0 +1,32 @@
+﻿
+body{
+	
+	background:url("about.jpg")no-repeat;
+	background-size:cover;
+}
+.nav-area{
+	
+	float:right;
+	list-style:none;
+	margin-top:30px;
+}
+.nav-area li{
+	display: inline-block;
+}
+.nav-area li a{
+	color:#fff;
+	text-decoration:none;
+	padding:5px 20px;
+	font-family:poppins;
+	font-size:14px;
+}
+.nav-area li a:hover{
+	
+	background: #fff;
+	color:#333;
+}
+.about-section {
+  padding: 50px;
+  text-align: center;
+  color: white;
+}
